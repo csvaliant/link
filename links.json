@@ -1,5 +1,11 @@
 {
-  "Aprilia-intro": "https://lh3.googleusercontent.com/d/1MPUvfRcl3hJ1RWdm33DuXK-EKvN9FU81",
-  "Laira-intro": "https://res.cloudinary.com/dq6ibcmaf/image/upload/shoutout-video_yqa1pc.webp",
-  "Reshma-intro": "https://res.cloudinary.com/dq6ibcmaf/image/upload/shoutout-video_yqa1pc.webp"
+  "shoutout-bg": "https://lh3.googleusercontent.com/d/13HOJu_2RIBL_qMj2IL39EuncepxYNGEU",
+  "shoutout-image": "https://github.com/csvaliant/assets/blob/995d2d3b71a1114ee6e7f1b06798b6171713c56d/AMMIMT-RR-cover.jpg",
+  "shoutout-animation": "https://github.com/csvaliant/assets/blob/995d2d3b71a1114ee6e7f1b06798b6171713c56d/AMMIMT-RR-animation.webp",
+  "Aprilia-intro": "https://github.com/csvaliant/assets/blob/995d2d3b71a1114ee6e7f1b06798b6171713c56d/Aprilia-intro.jpeg",
+  "Laira-intro": "https://github.com/csvaliant/assets/blob/995d2d3b71a1114ee6e7f1b06798b6171713c56d/Laira-intro.jpeg",
+  "Reshma-intro": "https://github.com/csvaliant/assets/blob/995d2d3b71a1114ee6e7f1b06798b6171713c56d/Reshma-intro.jpg",
+  "Jack-intro": "https://github.com/csvaliant/assets/blob/2b51188c7a5560841337424f6c219cebaba87fd1/Jack-intro.jpg",
+  "AMMIMT-World-Map": "https://github.com/csvaliant/assets/blob/2b51188c7a5560841337424f6c219cebaba87fd1/AMMIMT-World-Map.png",
+  "Treacherous-bog": "https://github.com/csvaliant/assets/blob/2b51188c7a5560841337424f6c219cebaba87fd1/treacherous-bog.jpg"
 }
