@@ -1,0 +1,18 @@
+# Site Metadata
+title: My Asset Redirects
+description: Permanent links for shared files and assets.
+
+# GitHub Pages Theme (Required for Jekyll to build properly)
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins
+# Note: 'jekyll-redirect-from' is supported by default on GitHub Pages 
+# but MUST be listed here to be activated.
+plugins:
+  - jekyll-redirect-from
+
+# Exclude the automation scripts from the final build
+exclude:
+  - generate_redirects.py
+  - links.json
+  - .github/
